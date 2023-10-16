@@ -1,0 +1,21 @@
+.card-light {
+    background-color: #fff;
+    color: #000;
+}
+
+.keyPad-light {
+    background-color: #eee;
+    color: #000;
+    font-size: 24px;
+}
+
+.card-dark {
+    background-color: navy;
+    color: #fff;
+}
+
+.keyPad-dark {
+    background-color: rgb(3, 3, 63);
+    color: #fff;
+    font-size: 24px;
+}
